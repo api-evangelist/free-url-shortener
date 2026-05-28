@@ -1,0 +1,32 @@
+aid: free-url-shortener
+name: Free Url Shortener
+description: "Free URL Shortener offers a powerful API to interact with other sites"
+url: https://ulvis.net/developer.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: Free Url Shortener
+    description: "Free URL Shortener offers a powerful API to interact with other sites"
+    humanURL: https://ulvis.net/developer.html
+    baseURL: https://ulvis.net/developer.html
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://ulvis.net/developer.html
+common:
+  - type: Website
+    url: https://ulvis.net/developer.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
