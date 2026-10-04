@@ -39,7 +39,6 @@ apis:
   - name: Free Url Shortener
     description: "Free URL Shortener offers a powerful API to interact with other sites"
     humanURL: https://ulvis.net/developer.html
-    baseURL: https://ulvis.net/developer.html
     tags:
       - URL Shorteners
     properties:
